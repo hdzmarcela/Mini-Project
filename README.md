@@ -34,5 +34,23 @@ Install dependencies with:
 ```bash
 pip install pandas matplotlib seaborn numpy
 ```
+
+## 📚 References
+
+- [Datasnaek / Chess Dataset on Kaggle](https://www.kaggle.com/datasets/datasnaek/chess)  
+- [Seaborn: Statistical Data Visualization](https://seaborn.pydata.org/)  
+- [Matplotlib: Visualization with Python](https://matplotlib.org/)  
+- Nielsen, M. A., & Friedberg, R. M. (2015). *Chess Openings: Theory and Practice*. Dover Publications.  
+
+## How to Reproduce
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/hdzmarcela/Mini-Project.git
+cd Mini-Project
+
+
 ---
-This project has been created for the Data Science 1 mini project. 
+
+Marcela Hernández, 2025
