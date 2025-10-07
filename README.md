@@ -16,12 +16,16 @@ The goal is **reproducible analysis**: anyone can clone this repo, run the noteb
 
 ## 🗂 Folder Structure
 ```plaintext
-Mini_Project/
-├── games.csv # Original dataset of chess games
-├── analysis.ipynb # Jupyter notebook for analysis
-├── output/ # Generated plots and visuals
-├── requirements.txt # Project dependencies
-└── README.md # This file
+├── Mini Project_ Data Science 1.ipynb
+├── README.md
+├── data
+│   └── raw
+│       └── games.csv
+├── diagram.jpg
+├── outputs
+│   ├── game_lengths.png
+│   └── game_outcomes.png
+└── requirements.txt
 ```
 ## 🧰 Requirements
 
@@ -49,8 +53,7 @@ pip install pandas matplotlib seaborn numpy
 ```bash
 git clone https://github.com/hdzmarcela/Mini-Project.git
 cd Mini-Project
-
-
+```
 ---
 
 Marcela Hernández, 2025
