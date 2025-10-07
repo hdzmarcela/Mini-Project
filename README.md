@@ -17,10 +17,10 @@ The goal is **reproducible analysis**: anyone can clone this repo, run the noteb
 ## 🗂 Folder Structure
 
 Mini_Project/
-│
 ├── games.csv # Original dataset of chess games
 ├── analysis.ipynb # Jupyter notebook for analysis
 ├── output/ # Generated plots and visuals
+├── requirements.txt # Project dependencies
 └── README.md # This file
 
 ## 🧰 Requirements
